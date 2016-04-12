@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Exemplo Activity</string>
+    <string name="lbl_exebir_toast">Exibir Toast</string>
+    <string name="lbl_tela2">Tela 2</string>
+    <string name="lbl_objeto">Objeto</string>
+</resources>
